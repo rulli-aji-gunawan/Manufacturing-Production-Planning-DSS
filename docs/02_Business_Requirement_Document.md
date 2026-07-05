@@ -1,7 +1,36 @@
+Document Information
+
+Document Name:
+Business Requirements
+
+Version:
+1.0
+
+Project:
+Manufacturing Production Planning and Decision Support System
+
+Author:
+Rulli Aji Gunawan
+
+Reviewer:
+ChatGPT (Technical Mentor)
+
+Status:
+Draft
+
 # Project Overview
 
 ## Project Name
 ### Manufacturing Production Planning and Decision Support System (MPP-DSS)
+### One Stop MPP
+---
+An enterprise-grade decision support platform  
+designed for Production Control engineers  
+to perform production planning,  
+capacity analysis,  
+manpower planning,  
+production monitoring,  
+and management reporting.
 
 ## Project Background
 Manufacturing companies are required to meet customer demand while maintaining optimal utilization of machine, manpower, and production capacity. In practice, Production Control engineers must analyze demand fluctuations, machine availibility, manpower allocation, and production performance before making decisions.  
