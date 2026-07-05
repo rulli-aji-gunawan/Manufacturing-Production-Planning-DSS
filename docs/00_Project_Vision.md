@@ -1,3 +1,12 @@
+Document Information  
+Document Name: Project Vision  
+Version: 1.0  
+Project: Manufacturing Production Planning and Decision Support System  
+Author: Rulli Aji Gunawan  
+Reviewer: ChatGPT (Technical Mentor)  
+Status: Draft
+
+---
 # Project Vision
 
 ## Vision Statement

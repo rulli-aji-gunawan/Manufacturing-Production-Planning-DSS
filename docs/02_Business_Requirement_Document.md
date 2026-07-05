@@ -1,23 +1,12 @@
-Document Information
+Document Information  
+Document Name: Business Requirement  
+Version: 1.0  
+Project: Manufacturing Production Planning and Decision Support System  
+Author: Rulli Aji Gunawan  
+Reviewer: ChatGPT (Technical Mentor)  
+Status: Draft
 
-Document Name:
-Business Requirements
-
-Version:
-1.0
-
-Project:
-Manufacturing Production Planning and Decision Support System
-
-Author:
-Rulli Aji Gunawan
-
-Reviewer:
-ChatGPT (Technical Mentor)
-
-Status:
-Draft
-
+---
 # Project Overview
 
 ## Project Name
