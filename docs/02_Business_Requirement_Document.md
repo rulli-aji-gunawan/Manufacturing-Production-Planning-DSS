@@ -22,7 +22,7 @@ Draft
 
 ## Project Name
 ### Manufacturing Production Planning and Decision Support System (MPP-DSS)
-### One Stop MPP
+### One Stop-MPP
 ---
 An enterprise-grade decision support platform  
 designed for Production Control engineers  
@@ -76,6 +76,7 @@ The system shall be able to:
 - Simulate production scenarios
 - Generate management dashboards
 - Export reports
+
 ## Non-Functional Requirements
 - Easy to use
 - Fast calculation
